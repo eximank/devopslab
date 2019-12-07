@@ -1,6 +1,6 @@
 export GITACCOUNT=eximbank
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing09
 export KUBECONFIG=
 
 export NAMESPACE=eximbankcluster
